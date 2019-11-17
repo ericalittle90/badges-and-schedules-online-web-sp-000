@@ -9,4 +9,3 @@ end
 badge_maker(name)
 end
 end
-  
