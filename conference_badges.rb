@@ -7,3 +7,8 @@ attendees.collect do |name|
   badge_maker(name)
 end
 end
+
+def assign_rooms(attendees)
+  attendees.each_with_index { |name, index|
+1-7 = index
+  }
